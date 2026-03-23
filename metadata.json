@@ -1,0 +1,5 @@
+{
+  "name": "Stock Pulse Analyzer",
+  "description": "Analyze your stock holdings against the latest 16 hours of US market news to prioritize high-impact events like earnings and regulatory shifts.",
+  "requestFramePermissions": []
+}
